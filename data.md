@@ -1,3 +1,5 @@
-Since Github puts limitation on the file size, the actual data has been uploaded to other repositories. 
+Since GitHub has a limitation on file size, the actual data has been uploaded to other repositories. 
 
 Please access the data through the link below:
+
+https://drive.google.com/file/d/15OvKcw7seEY80BIYBOhlPGZn3Oyt8gUU/view?usp=drive_link
