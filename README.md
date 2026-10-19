@@ -1,4 +1,7 @@
 # Event–Frame Hybrid Camera OOK Dataset for Free-Space and Underwater Optical Communication
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23449564.svg)](https://doi.org/10.5281/zenodo.23449564)
+[![Data license: CC BY 4.0](https://img.shields.io/badge/Data%20license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Code license: MIT](https://img.shields.io/badge/Code%20license-MIT-blue.svg)](LICENSE)
 
 ## 1. Dataset overview
 
